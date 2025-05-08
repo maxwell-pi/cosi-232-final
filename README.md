@@ -4,6 +4,8 @@ A research assistant that takes a natural language query and a set of seed paper
 
 # Running
 
+Dependencies are listed in `pyproject.toml` in `uv` format.
+
 ## Set OpenAI API Key in .env
 
 Make sure you set your OpenAI API key in a .env file:
@@ -47,6 +49,8 @@ uv run streamlit run interface.py
 ```
 
 ## Direct Pipeline
+
+Dependencies are listed in `pyproject.toml` in `uv` format.
 
 Make sure `setup.py` has been run once, so that the starter data set is downloaded and embedded.
 
