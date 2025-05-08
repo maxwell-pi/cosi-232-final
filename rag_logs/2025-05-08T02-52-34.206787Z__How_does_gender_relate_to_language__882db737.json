@@ -1,0 +1,50 @@
+{
+  "run_id": "882db737-5ac8-4fba-a40a-7056f07fec02",
+  "timestamp": "2025-05-08T02-52-34.206787Z",
+  "topic": "How does gender relate to language?",
+  "seed_ids": [
+    "https://openalex.org/W2963526187"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2139875525",
+      "title": "Gender Differences in Language Use: An Analysis of 14,000 Text Samples",
+      "authors": "Matthew L. Newman, Carla J. Groom, Lori D. Handelman et al.",
+      "year": 2008,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. It directly investigates gender differences in language use, which aligns with the topic of how gender relates to language. The paper provides empirical data on the subject, examining the language use of men and women in a large sample of text files, which could provide valuable insights into the topic.",
+      "abstract": "Differences in the ways that men and women use language have long been of interest study discourse. Despite extensive theorizing, actual empirical investigations yet to converge on a coherent picture gender differences language. A significant reason is lack agreement over best way analyze In this research, were examined using standardized categories database 14,000 text files from 70 separate studies. Women used more words related psychological social processes. Men referred object properties impersonal topics. Although these effects largely consistent across different contexts, pattern variation suggests are larger tasks place fewer constraints use."
+    },
+    {
+      "id": "https://openalex.org/W1995519658",
+      "title": "Women, Men, and Language: A Sociolinguistic Account of Sex Differences in Language",
+      "authors": "Jennifer Coates",
+      "year": 1986,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the topic as it discusses the relationship between gender and language. It explores gender differences in language use, conversational practices, and the social consequences of these differences. It also looks into the role of linguistic change and gender-differentiated language in children, which are all directly related to the topic.",
+      "abstract": "Preface to the Third Edition Acknowledgements PART ONE: INTRODUCTORY 1 Language and gender 2 The historical background (I) - Folklinguistics early grammarians 3 (II) Anthropologists dialectologists TWO: THE SOCIOLINGUISTIC EVIDENCE 4 Quantitative studies 5Social networks 6 Gender differences in conversational practice 7 Conversational dominance mixed talk 8 Same-sex THREE: CAUSES AND CONSEQUENCES 9 Children gender-differentiated language 10 role of linguistic change 11The social consequences FOUR: LOOKING TO FUTURE 12 New developments research Bibliography Index"
+    },
+    {
+      "id": "https://openalex.org/W3035070478",
+      "title": "Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus",
+      "authors": "Luisa Bentivogli, Beatrice Savoldi, Matteo Negri et al.",
+      "year": 2020,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the challenges machines face when translating from languages without grammatical gender, like English, into gender-marked languages, which directly relates to the topic of how gender relates to language. The paper also explores how biases in training data, which often reflect the asymmetries of natural languages, can impact machine translation. This could provide insights into how gender biases are reflected in language and translation.",
+      "abstract": "Translating from languages without productive grammatical gender like English into gender-marked is a well-known difficulty for machines. This also due to the fact that training data on which models are built typically reflect asymmetries of natural languages, bias included. Exclusively fed with textual data, machine translation intrinsically constrained by input sentence does not always contain clues about identity referred human entities. But what happens speech translation, where an audio signal? Can provide additional information reduce bias? We present first thorough investigation in contributing with: i) release benchmark useful future studies, and ii) comparison different technologies (cascade end-to-end) two language directions (English-Italian/French)."
+    },
+    {
+      "id": "https://openalex.org/W2127063197",
+      "title": "Language and woman's place",
+      "authors": "Robin Tolmach Lakoff",
+      "year": 1973,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the relationship between gender and language by exploring how language reflects societal attitudes towards women, how women are expected to speak, and how they are spoken of. It also analyzes the differential role of terms marked for sex. This directly relates to the topic of how gender relates to language.",
+      "abstract": "ABSTRACT Our use of language embodies attitudes as well referential meanings. \u2018Woman's language\u2019 has foundation the attitude that women are marginal to serious concerns life, which pre-empted by men. The marginality and powerlessness is reflected in both ways expected speak, spoken of. In appropriate women's speech, strong expression feeling avoided, uncertainty favored, means regard subject-matter deemed \u2018trivial\u2019 \u2018real\u2019 world elaborated. Speech about implies an object, whose sexual nature requires euphemism, social roles derivative dependent relation personal identity thus linguistically submerged; works against treatment women, persons with individual views. These aspects English explored lexicon (color terms, particles, evaluative adjectives), syntax (tag-questions, related intonation answers requests, requests orders), speech women. analyzed lady : woman, master mistress, widow widower , Mr Mrs., Miss notice differential role terms not explicitly marked for sex (e.g. professional ) well. Some suggestions conclusions offered those working liberation movement other kinds reform; second teaching; theoretical linguistics. Relevant generalizations linguistics require study mores purely linguistic data."
+    },
+    {
+      "id": "https://openalex.org/W2972972637",
+      "title": "Getting Gender Right in Neural Machine Translation",
+      "authors": "Eva Vanmassenhove, Christian Hardmeier, Andy Way",
+      "year": 2018,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses the relationship between gender and language. It specifically explores how gender is expressed in different languages and how this affects neural machine translation. The paper also mentions that demographic factors such as gender influence word choices and syntactic constructions in language. These points directly relate to the topic of how gender relates to language.",
+      "abstract": "Speakers of different languages must attend to and encode strikingly aspects the world in order use their language correctly (Sapir, 1921; Slobin, 1996). One such difference is related way gender expressed a language. Saying \"I am happy\" English, does not any additional knowledge speaker that uttered sentence. However, many other do have grammatical systems so would be encoded. In translate sentence into, say, French, inherent information needs retained/recovered. The same become either \"Je suis heureux\", for male or heureuse\" female one. Apart from morphological agreement, demographic factors (gender, age, etc.) also influence our terms word choices even on level syntactic constructions (Tannen, 1991; Pennebaker et al., 2003). We integrate into NMT systems. Our contribution two-fold: (1) compilation large datasets with 20 pairs, (2) simple set experiments incorporate multiple pairs. show adding feature an system significantly improves translation quality some"
+    }
+  ]
+}

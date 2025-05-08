@@ -1,0 +1,45 @@
+{
+  "run_id": "94adec91-50aa-46b7-8485-218e5bdbdd97",
+  "timestamp": "2025-05-08T01-57-55.257654Z",
+  "topic": "Cross-lingual embeddings",
+  "seed_ids": [
+    "https://openalex.org/W2118090838"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2949359738",
+      "title": "Analyzing the Limitations of Cross-lingual Word Embedding Mappings",
+      "authors": "Aitor Ormazabal, Mikel Artetxe, Gorka Labaka et al.",
+      "year": 2019,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses cross-lingual word embeddings, which directly relates to the topic of cross-lingual embeddings. It explores the limitations of current methods in this field, specifically focusing on offline methods and the assumptions they make. The paper also presents experimental results using parallel corpora, which is a common technique in cross-lingual embedding research. Therefore, it contributes to the understanding and development of cross-lingual embeddings."
+    },
+    {
+      "id": "https://openalex.org/W3104723404",
+      "title": "A Survey of Cross-lingual Word Embedding Models",
+      "authors": "Sebastian Ruder, Ivan Vuli\u0107, Anders S\u00f8gaard",
+      "year": 2019,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses cross-lingual representations of words, which is directly related to the topic of cross-lingual embeddings. It provides a comprehensive survey of embedding models, their data requirements, and objective functions. The paper also discusses how these embeddings are evaluated and future challenges in this research area. Therefore, it is a significant and relevant source for the topic."
+    },
+    {
+      "id": "https://openalex.org/W2626534681",
+      "title": "A survey of cross-lingual embedding models.",
+      "authors": "Sebastian Ruder",
+      "year": 2017,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper provides a comprehensive survey of cross-lingual embedding models, which is directly related to the topic. It discusses the data requirements and objective functions of these models, optimization strategies, and evaluation methods, all of which are important aspects of understanding and advancing the field of cross-lingual embeddings. The paper also discusses future challenges and research horizons, indicating its relevance to ongoing research in this area."
+    },
+    {
+      "id": "https://openalex.org/W2964266061",
+      "title": "A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings",
+      "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre",
+      "year": 2018,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses cross-lingual word embeddings, which is a specific area of study within the broader topic of cross-lingual embeddings. It presents a new approach to learning these embeddings in an unsupervised manner, which could contribute to advancements in the field. The paper also provides an open-source implementation of their method, which is directly related to the topic."
+    },
+    {
+      "id": "https://openalex.org/W3034402523",
+      "title": "Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces",
+      "authors": "Goran Glava\u009a\u0161, Ivan Vuli\u0107",
+      "year": 2020,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses InstaMap, a method for learning projection-based cross-lingual word embeddings, which is directly related to the topic of cross-lingual embeddings. It provides a unique perspective by deviating from a single global linear projection and instead using a non-linear projection. This could potentially contribute to advancements in the field of cross-lingual embeddings."
+    }
+  ]
+}

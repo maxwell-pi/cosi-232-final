@@ -1,0 +1,32 @@
+{
+  "run_id": "6a047547-c96a-42aa-8a7e-b6833b1d5321",
+  "timestamp": "2025-05-07T21-26-33.882755Z",
+  "topic": "What are the theoretical foundations of compositionality in NLP?",
+  "seed_ids": [
+    "w2153579005",
+    "w2962813108"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2016954686",
+      "title": "Compositionality II: Arguments and Problems",
+      "authors": "Peter Pagin, Dag Westerst\u00e5hl",
+      "year": 2010,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses compositionality, which is a key theoretical foundation in Natural Language Processing (NLP). The paper provides arguments for and against the claim that natural languages have compositional semantics, which directly relates to the topic. It also discusses problem cases, including idioms and ambiguity, which are important considerations in the theory of compositionality in NLP."
+    },
+    {
+      "id": "https://openalex.org/W131931019",
+      "title": "The Oxford Handbook of Compositionality",
+      "authors": "Markus Werning, Wolfram Hinzen, \u00c9douard Machery",
+      "year": 2012,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses compositionality, a key concept in linguistics and cognitive sciences, which is directly related to the topic. It explores the theoretical foundations of compositionality, its challenges, and its role in semantic analysis and representation in systems such as computer programs and neural architectures, which are crucial aspects in the field of Natural Language Processing (NLP)."
+    },
+    {
+      "id": "https://openalex.org/W2045335691",
+      "title": "Compositionality I: Definitions and Variants",
+      "authors": "Peter Pagin, Dag Westerst\u00e5hl",
+      "year": 2010,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. It discusses semantic compositionality, which is a key theoretical foundation of compositionality in Natural Language Processing (NLP). The paper provides historical background, formal framework, and precise definitions related to compositionality. It also distinguishes between stronger and weaker forms of compositionality, which could provide important insights for understanding the concept in the context of NLP."
+    }
+  ]
+}

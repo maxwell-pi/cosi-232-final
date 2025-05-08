@@ -1,0 +1,46 @@
+{
+  "run_id": "8ed265e9-c3a1-42ef-bd58-b5c077d49425",
+  "timestamp": "2025-05-07T23-51-05.791926Z",
+  "topic": "What are the theoretical foundations of compositionality in NLP?",
+  "seed_ids": [
+    "w2153579005",
+    "w2962813108"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2016954686",
+      "title": "Compositionality II: Arguments and Problems",
+      "authors": "Peter Pagin, Dag Westerst\u00e5hl",
+      "year": 2010,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it directly discusses compositionality, which is the principle that the meaning of a complex expression is determined by the meanings of its parts and the way they are put together. This is a key theoretical foundation in Natural Language Processing (NLP). The paper also discusses arguments for and against the claim that natural languages have compositional semantics, which is directly related to the topic."
+    },
+    {
+      "id": "https://openalex.org/W131931019",
+      "title": "The Oxford Handbook of Compositionality",
+      "authors": "Markus Werning, Wolfram Hinzen, \u00c9douard Machery",
+      "year": 2012,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses compositionality, a key concept in linguistics and cognitive sciences, which is directly related to the topic of theoretical foundations of compositionality in NLP. It explores the connections between different lines of research, the challenges and opportunities in the field, and the relationship between theories of semantics and underlying structures of representational systems such as computer programs and neural architectures. These discussions are integral to understanding the theoretical foundations of compositionality in NLP."
+    },
+    {
+      "id": "https://openalex.org/W2045335691",
+      "title": "Compositionality I: Definitions and Variants",
+      "authors": "Peter Pagin, Dag Westerst\u00e5hl",
+      "year": 2010,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. It discusses semantic compositionality, which is a key theoretical foundation of compositionality in Natural Language Processing (NLP). The paper provides a historical background, formal framework, and precise definitions related to compositionality. It also distinguishes between stronger and weaker forms of compositionality, which could provide valuable insights for the topic."
+    },
+    {
+      "id": "https://openalex.org/W148937678",
+      "title": "The compositionality of meaning and content /1 Foundational issues",
+      "authors": "\u00c9douard Machery, Markus Werning",
+      "year": 2005,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The abstract mentions the principle of compositionality in representational systems such as language, which is a core concept in Natural Language Processing (NLP). It also discusses the historical and contemporary debates around this principle, which aligns with the theoretical foundations of compositionality in NLP. The interdisciplinary approach of the paper, involving perspectives from psychology, neuroscience, computer science, linguistics, and philosophy, could provide a comprehensive understanding of the topic."
+    },
+    {
+      "id": "https://openalex.org/W140802360",
+      "title": "Applications to Linguistics, Psychology and Neuroscience",
+      "authors": "Markus Werning, \u00c9douard Machery, Gerhard Schurz",
+      "year": 2005,
+      "annotation": "Relevant.\n\nThe candidate paper appears to be relevant to the topic of theoretical foundations of compositionality in NLP. The abstract mentions issues of compositionality in language, mind, and brain functions, which are all key aspects of natural language processing. It also raises questions about the evolution of compositional languages, the interpretation of texts, and the combination of complex concepts, all of which could potentially provide insights into the theoretical underpinnings of compositionality in NLP."
+    }
+  ]
+}

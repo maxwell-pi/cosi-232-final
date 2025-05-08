@@ -1,0 +1,38 @@
+{
+  "run_id": "bf50c055-dc58-4203-b618-97f74da13ae7",
+  "timestamp": "2025-05-07T21-29-42.210524Z",
+  "topic": "Evaluation without humans.",
+  "seed_ids": [
+    "W2101105183"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2101105183",
+      "title": "BLEU",
+      "authors": "Kishore Papineni, Salim Roukos, Todd J. Ward et al.",
+      "year": 2001,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic \"Evaluation without humans\" as it discusses an automated method for evaluating machine translations, which is a process traditionally done by humans. The abstract mentions that this method is quick, inexpensive, and language-independent, indicating that it can perform evaluations without human involvement. This aligns directly with the topic of interest."
+    },
+    {
+      "id": "https://openalex.org/W2159107349",
+      "title": "Findings of the 2010 Joint Workshop on Statistical Machine Translation and Metrics for Machine Translation",
+      "authors": "Chris Callison-Burch, Philipp Koehn, Christof Monz et al.",
+      "year": 2010,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic \"Evaluation without humans\" because it discusses the use of automatic metrics to evaluate machine translation systems, which is a form of evaluation that does not require human involvement. The paper also explores the use of non-expert annotators hired through Amazon's Mechanical Turk, which could potentially be seen as a way to reduce human involvement in the evaluation process."
+    },
+    {
+      "id": "https://openalex.org/W4392669868",
+      "title": "The Glass Ceiling of Automatic Evaluation in Natural Language Generation",
+      "authors": "Pierre Colombo, Maxime Peyrard, Nathan Noiry et al.",
+      "year": 2023,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic \"Evaluation without humans\". It discusses automatic evaluation metrics that can replace human judgments, which directly aligns with the topic. The paper analyzes the effectiveness of these automatic metrics and compares them to human judgments, providing valuable insights into the field of non-human evaluation."
+    },
+    {
+      "id": "https://openalex.org/W4406733629",
+      "title": "The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically\n  Justify Replacing Human Annotators with LLMs",
+      "authors": "Nitay Calderon, Roi Reichart, Rotem Dror",
+      "year": 2025,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The topic is about \"Evaluation without humans\" and the paper discusses the use of Large Language Models (LLMs) as annotators and evaluators in tasks traditionally performed by humans. It also proposes a statistical test to determine whether LLMs can replace human annotators, which directly relates to the concept of evaluation without humans."
+    }
+  ]
+}

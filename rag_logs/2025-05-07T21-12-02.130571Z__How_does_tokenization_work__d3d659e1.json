@@ -1,0 +1,32 @@
+{
+  "run_id": "d3d659e1-0e97-4ad0-b0e1-c790107b406e",
+  "timestamp": "2025-05-07T21-12-02.130571Z",
+  "topic": "How does tokenization work?",
+  "seed_ids": [
+    "w2037450062",
+    "w2159399018"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2037450062",
+      "title": "Tokenization as the initial phase in NLP",
+      "authors": "Jonathan J. Webster, Chunyu Kit",
+      "year": 1992,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the significance and complexity of tokenization, which is directly related to the topic of how tokenization works. It also provides practical approaches to the identification of compound tokens in English, which could provide further insights into the process of tokenization. Furthermore, the paper discusses automatic segmentation of Chinese words as an illustration of tokenization, which could provide a practical example of how tokenization works in different languages."
+    },
+    {
+      "id": "https://openalex.org/W4206660322",
+      "title": "Fast WordPiece Tokenization",
+      "authors": "Xinying Song, Alex Salcianu, Yang Song et al.",
+      "year": 2021,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the process of tokenization, which is directly related to the topic. It introduces efficient algorithms for WordPiece tokenization, a specific type of tokenization used in natural language processing. The paper also discusses strategies for tokenizing single words and general text, and compares the efficiency of its method to other tokenization methods."
+    },
+    {
+      "id": "https://openalex.org/W4408293219",
+      "title": "Tokenization Changes Meaning in Large Language Models: Evidence from Chinese",
+      "authors": "David A. Haslett",
+      "year": 2025,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses the process of tokenization, specifically in the context of large language models and Chinese characters. It investigates the impact of tokenization on the representation of meanings, which is a key aspect of understanding how tokenization works. The paper also explores the effects of different tokenization strategies, such as segmenting into fewer, longer tokens versus single or multi-token characters. This can provide valuable insights into the mechanics and implications of tokenization in language processing."
+    }
+  ]
+}

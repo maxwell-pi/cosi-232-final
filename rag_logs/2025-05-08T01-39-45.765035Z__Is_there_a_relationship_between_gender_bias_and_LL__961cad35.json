@@ -1,0 +1,38 @@
+{
+  "run_id": "961cad35-6de1-4296-9385-19c7f5fabaac",
+  "timestamp": "2025-05-08T01-39-45.765035Z",
+  "topic": "Is there a relationship between gender bias and LLM alignment issues?",
+  "seed_ids": [
+    "https://openalex.org/W2926555354"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W4386302153",
+      "title": "Gender bias and stereotypes in Large Language Models",
+      "authors": "Hadas Kotek, Rikker Dockum, David Sun",
+      "year": 2023,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. It directly investigates the presence of gender bias in Large Language Models (LLMs), which is the main focus of the topic. The paper examines how LLMs express biased assumptions about men and women's occupations and how these biases align with societal perceptions. This directly relates to the topic's inquiry into the relationship between gender bias and LLM alignment issues."
+    },
+    {
+      "id": "https://openalex.org/W4283162604",
+      "title": "Theories of \u201cGender\u201d in NLP Bias Research",
+      "authors": "Hannah Devinney, Jenny Bj\u00f6rklund, Henrik Bj\u00f6rklund",
+      "year": 2022,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the intellectual context of the topic because it discusses the issue of gender bias in the field of Natural Language Processing (NLP), which could potentially be related to LLM (Language Model) alignment issues. The paper's analysis of how gender is conceptualized in the field could provide valuable insights into the relationship between gender bias and LLM alignment."
+    },
+    {
+      "id": "https://openalex.org/W3195725782",
+      "title": "Gender Bias in Machine Translation",
+      "authors": "Beatrice Savoldi, Marco Gaido, Luisa Bentivogli et al.",
+      "year": 2021,
+      "annotation": "Relevant. \n\nThe candidate paper discusses gender bias in machine translation, which could potentially relate to the topic of gender bias and LLM (Language Model) alignment issues. The paper's focus on biases in machine translation technology and its impact on users and society could provide valuable insights into understanding how gender bias might affect LLM alignment. It also discusses strategies to mitigate these biases, which could be applicable to the topic."
+    },
+    {
+      "id": "https://openalex.org/W2921633540",
+      "title": "Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them",
+      "authors": "Hila Gonen, Yoav Goldberg",
+      "year": 2019,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses gender bias in word embeddings, which are a type of language model. The paper argues that current methods of reducing gender bias in these models are insufficient and only hide the bias rather than remove it. This is directly related to the topic of gender bias and LLM (likely referring to Language Model) alignment issues."
+    }
+  ]
+}

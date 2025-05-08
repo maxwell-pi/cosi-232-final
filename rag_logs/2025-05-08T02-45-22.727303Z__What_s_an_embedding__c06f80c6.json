@@ -1,0 +1,50 @@
+{
+  "run_id": "c06f80c6-f370-4b27-b59e-33050d91df74",
+  "timestamp": "2025-05-08T02-45-22.727303Z",
+  "topic": "What's an embedding?",
+  "seed_ids": [
+    "https://openalex.org/W658020064"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2807140737",
+      "title": "What the Vec? Towards Probabilistically Grounded Embeddings",
+      "authors": "Carl Allen, Ivana Bala\u017eevi\u0107, Timothy M. Hospedales",
+      "year": 2018,
+      "annotation": "Relevant. \n\nThe candidate paper discusses word embeddings, which are a type of embedding used in natural language processing. It specifically mentions Word2Vec and GloVe, which are popular word embedding algorithms. The paper also discusses the theoretical understanding of what these algorithms learn and why that is useful, which is directly related to the topic of understanding what an embedding is.",
+      "abstract": "Word2Vec (W2V) and GloVe are popular, fast efficient word embedding algorithms. Their embeddings widely used perform well on a variety of natural language processing tasks. Moreover, W2V has recently been adopted in the field graph embedding, where it underpins several leading However, despite their ubiquity relatively simple model architecture, theoretical understanding what parameters learn why that is useful downstream tasks lacking. We show different interactions between PMI vectors reflect semantic relationships, such as similarity paraphrasing, encoded low dimensional under suitable projection, theoretically explaining work. As consequence, we also reveal an interesting mathematical interconnection considered relationships themselves."
+    },
+    {
+      "id": "https://openalex.org/W4390873448",
+      "title": "Linear Spaces of Meanings: Compositional Structures in Vision-Language Models",
+      "authors": "Matthew Trager, Pramuditha Perera, Luca Zancato et al.",
+      "year": 2023,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses embeddings in the context of vision-language models (VLMs). It explores the compositional structures in data embeddings and their representations. The paper also provides insights into the probabilistic aspects of VLM embeddings and their practical applications. This information could be useful in understanding the concept of an embedding.",
+      "abstract": "We investigate compositional structures in data embeddings from pre-trained vision-language models (VLMs). Traditionally, compositionality has been associated with algebraic operations on of words a preexisting vocabulary. In contrast, we seek to approximate representations an encoder as combinations smaller set vectors the embedding space. These can be seen \"ideal words\" for generating concepts directly within space model. first present framework understanding geometric perspective. then explain what these entail probabilistically case VLM embeddings, providing intuitions why they arise practice. Finally, empirically explore CLIP's and evaluate their usefulness solving different tasks such classification, debiasing, retrieval. Our results show that simple linear used interpretable methods regulating behavior VLMs."
+    },
+    {
+      "id": "https://openalex.org/W4386536278",
+      "title": "GraRep++: Flexible Learning Graph Representations With Weighted Global Structural Information",
+      "authors": "Mengcen Ouyang, Yinglong Zhang, Xuewen Xia et al.",
+      "year": 2023,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses the concept of vertex embedding, which is a type of embedding. Embeddings are a way of representing complex data in a lower-dimensional space, and in this case, the paper is discussing how to represent global graph information in a low-dimensional space. The paper also discusses the process of integrating information from multiple steps into an effective strategy for creating these embeddings. Therefore, it provides insights into the topic of embeddings.",
+      "abstract": "The key to vertex embedding is learn low-dimensional representations of global graph information, and integrating information from multiple steps an effective strategy. Existing research shows that the transition probability each step can capture relationship between different hops, graph's be obtained simultaneously. However, much current work simply concatenates hops into a representation. In other words, they are unclear about contribution <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"> <tex-math notation=\"LaTeX\">$k$ </tex-math></inline-formula> -step ( notation=\"LaTeX\">$k\\geq {1}$ ) structural in embedding. With this motivation, we propose unified framework focuses on considering contributions It reconsiders representation two perspectives: (i)We flexibly assign weights loss function, (ii) According , design strategies all concatenated with proportions form Based this, more effectively integrate learning process. paper, our proposed achieves competitive performance classification, link prediction, visualization tasks datasets."
+    },
+    {
+      "id": "https://openalex.org/W2913433659",
+      "title": "Analogies Explained: Towards Understanding Word Embeddings",
+      "authors": "Carl Allen, Timothy M. Hospedales",
+      "year": 2019,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses word embeddings, which are a type of embedding. Word embeddings are a way to convert text into numerical form that can be understood by machine learning algorithms. The paper seems to delve into the properties and behaviors of word embeddings, specifically those generated by neural network methods like word2vec. Therefore, it provides a context for understanding what an embedding is, at least in the context of natural language processing.",
+      "abstract": "Word embeddings generated by neural network methods such as word2vec (W2V) are well known to exhibit seemingly linear behaviour, e.g. the of analogy woman is queen man king approximately describe a parallelogram. This property particularly intriguing since not trained achieve it. Several explanations have been proposed, but each introduces assumptions that do hold in practice. We derive probabilistically grounded definition paraphrasing we re-interpret word transformation, mathematical description $w_x$ $w_y$. From these concepts prove existence relationships between W2V-type underlie analogical phenomenon, identifying explicit error terms."
+    },
+    {
+      "id": "https://openalex.org/W2995755016",
+      "title": "Embedding Comparator: Visualizing Differences in Global Structure and Local Neighborhoods via Small Multiples",
+      "authors": "Angie Boggust, Brandon Carter, Arvind Satyanarayan",
+      "year": 2022,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the topic as it directly discusses embeddings, which are mappings from high-dimensional discrete input to lower-dimensional continuous vector spaces. The paper presents a tool, the Embedding Comparator, for comparing and analyzing embeddings, which is directly related to understanding what an embedding is and how it can be used in machine learning applications.",
+      "abstract": "Embeddings mapping high-dimensional discrete input to lower-dimensional continuous vector spaces have been widely adopted in machine learning applications as a way capture domain semantics. Interviewing 13 embedding users across disciplines, we find comparing embeddings is key task for deployment or downstream analysis but unfolds tedious fashion that poorly supports systematic exploration. In response, present the Embedding Comparator, an interactive system presents global comparison of alongside fine-grained inspection local neighborhoods. It systematically surfaces points by computing similarity k-nearest neighbors every embedded object between pair spaces. Through case studies multiple modalities, demonstrate our rapidly reveals insights, such semantic changes following fine-tuning, language over time, and differences seemingly similar models. evaluations with 15 participants, accelerates comparisons shifting from laborious manual specification browsing manipulating visualizations."
+    }
+  ]
+}

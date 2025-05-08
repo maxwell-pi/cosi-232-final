@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  eratosthenes:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./instance:/app/instance
+      - ./data:/app/data
+      - ./index:/app/index
+      - ./rag_logs:/app/rag_logs
+    environment:
+      - FLASK_ENV=development
+    command: bash -c "./run_flask.sh"

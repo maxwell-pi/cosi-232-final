@@ -1,0 +1,31 @@
+{
+  "run_id": "47749a4f-ea16-44e4-8871-229f2ba85951",
+  "timestamp": "2025-05-07T21-34-21.658935Z",
+  "topic": "Can we model how languages evolve computationlly?",
+  "seed_ids": [
+    "W2581563496"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W4407903117",
+      "title": "Kallini et al. (2024) do not compare impossible languages with constituency-based ones",
+      "authors": "Tim B. Hunter",
+      "year": 2025,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic because it discusses the use of large language models (LLMs) in computational linguistics, which is a method of modeling how languages evolve. It specifically mentions the use of GPT-2, a well-known language model, in learning synthetic languages. The paper also discusses the concept of \"possible\" and \"impossible\" languages, which is an important aspect of language evolution. Therefore, this paper could provide valuable insights into computational modeling of language evolution."
+    },
+    {
+      "id": "https://openalex.org/W2313740072",
+      "title": "Grammaticalization and Semantic Maps: Evidence from Artificial Language",
+      "authors": "Remi van Trijp",
+      "year": 2010,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it explores the evolution and development of language structure, which is a key aspect of how languages evolve. It also investigates this evolution through the use of artificial \"agents\" and \"language games\", which suggests a computational approach to modeling language evolution. Therefore, it directly relates to the topic of modeling how languages evolve computationally."
+    },
+    {
+      "id": "https://openalex.org/W2129085023",
+      "title": "Constructivist development of grounded construction grammars",
+      "authors": "Luc Steels",
+      "year": 2004,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. It discusses the development of computational models for language development, which is directly related to the topic of modeling how languages evolve computationally. The paper's focus on construction grammars and learning strategies provides a specific approach to this broader topic."
+    }
+  ]
+}

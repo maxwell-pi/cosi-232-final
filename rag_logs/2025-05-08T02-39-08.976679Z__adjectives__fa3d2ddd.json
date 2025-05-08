@@ -1,0 +1,50 @@
+{
+  "run_id": "fa3d2ddd-bdd6-4194-84d0-ceec2d022cc8",
+  "timestamp": "2025-05-08T02-39-08.976679Z",
+  "topic": "adjectives?",
+  "seed_ids": [
+    "https://openalex.org/W1565863475"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W217153343",
+      "title": "The comparison of English disyllabic adjectives in -y and -ly in Present-day British and American English",
+      "authors": "Hans Lindquist",
+      "year": 1998,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the topic as it discusses adjectives, specifically focusing on English disyllabic adjectives in -y and -ly. This falls within the intellectual context of the topic \"adjectives.\"",
+      "abstract": "The comparison of English disyllabic adjectives in -y and -ly Present-day British American"
+    },
+    {
+      "id": "https://openalex.org/W2046567002",
+      "title": "Adjectives and boundedness",
+      "authors": "Carita Paradis",
+      "year": 2001,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses adjectives in depth, particularly focusing on their schematic domain boundedness and their association with gradability. It also explores the relationship between adjectives and other parts of speech like nouns and verbs. Therefore, it provides a detailed analysis of adjectives, which is the main focus of the topic.",
+      "abstract": "This article examines the significance of schematic domain boundedness in adjectives. It is proposed that adjectives a fundamental characteristic associated with gradability. Cross-categorial correspondences are made to nouns and verbs, where feature countability aktionsart respectively. Two basic types gradable distinguished: those which boundary not. also shown it possible change configuration terms through contextual modulation. Finally, demonstrated boundaries may dominate their interpretation at expense content proper, become more like function words than words."
+    },
+    {
+      "id": "https://openalex.org/W2136944077",
+      "title": "Scale Structure, Degree Modification, and the Semantics of Gradable Predicates",
+      "authors": "Christopher Kennedy, Louise McNally",
+      "year": 2005,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the topic of adjectives as it discusses a semantic typology of gradable predicates with a special emphasis on deverbal adjectives. It also explores the distribution and interpretation of degree modifiers, which are closely related to the use of adjectives. Furthermore, it discusses the classification of a subclass of adjectives and their correlation with scale structure.",
+      "abstract": "In this article we develop a semantic typology of gradable predicates, with special emphasis on deverbal adjectives. We argue for the linguistic relevance by demonstrating that distribution and interpretation degree modifiers is sensitive to its twomajor classificatory parameters: (1) whether predicate associated what call an open or closed scale, (2) standard comparison applicability absolute relative context. further showthat classification important subclass adjectives within largely predictable. Specifically, scale structure adjective correlates either algebraic part event denoted source verb entities which applies. These correlations underscore fact gradability characteristic not only but also verbs nouns, scalar properties are shared categorially distinct derivationally related expressions."
+    },
+    {
+      "id": "https://openalex.org/W2109688847",
+      "title": "Modeling Regular Polysemy: A Study on the Semantic Classification of Catalan Adjectives",
+      "authors": "Gemma Boleda, Sabine Schulte im Walde, Toni Bad\u00eda",
+      "year": 2011,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the topic of adjectives as it focuses on the semantic classification of Catalan adjectives. It discusses different types of adjectives such as qualitative and relational, and explores the concept of polysemy in adjectives. The paper also discusses how to best model these terms, which is directly related to the study of adjectives.",
+      "abstract": "We present a study on the automatic acquisition of semantic classes for Catalan adjectives from distributional and morphological information, with particular emphasis polysemous adjectives. The aim is to distinguish characterize broad classes, such as qualitative (gran \u2018big\u2019) relational (pulmonar \u2018pulmonary\u2019) adjectives, well identify econ\u00f2mic (\u2018economic \u2223 cheap\u2019). specifically at modeling regular polysemy, that is, types sense alternations are shared across lemmata. To date, both polysemy have only been sparsely addressed in empirical computational linguistics. Two main specific questions tackled this article. First, what an adequate classification adjectives? provide support defined theoretical work, uncover one type adjective has not received enough attention, namely, event-related class. Second, how best modeled terms? two models, argue second one, which models terms simultaneous membership multiple basic theoretically empirically more than first attempts independent classes. Our classifier achieves 69.1% accuracy, against 51% baseline."
+    },
+    {
+      "id": "https://openalex.org/W189529527",
+      "title": "SCALE STRUCTURE AND THE SEMANTIC TYPOLOGY OF GRADABLE PREDICATES",
+      "authors": "Christopher Kennedy, Louise McNally",
+      "year": 2002,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the semantic typology of gradable predicates, focusing specifically on deverbal adjectives. It delves into the structure of adjectives and their classification, which directly relates to the topic of adjectives. The paper also explores the linguistic relevance of adjectives, further underscoring its relevance to the topic.",
+      "abstract": "In this paper we develop a semantic typology of gradable predicates, with special emphasis on deverbal adjectives. We argue for the linguistic relevance by demonstrating that distribution and interpretation degree modifiers is sensitive to its two major classificatory parameters: (1) whether predicate associated what call an OPEN or CLOSED scale (2) standard comparison applicability ABSOLUTE RELATIVE context. further show classification adjectives within largely predictable. Specifically, structure adjective correlates either algebraic part event denoted source verb entities which applies. These correlations underscore fact gradability characteristic not only but also verbs nouns, scalar properties are shared categorially distinct derivationally-related expressions.\u2217"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "run_id": "a12dcad8-39ae-401f-913d-22971d71d091",
+  "timestamp": "2025-05-08T02-26-28.637654Z",
+  "topic": "tokens",
+  "seed_ids": [
+    "https://openalex.org/W3103469330"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W2509343702",
+      "title": "SoMaJo: State-of-the-art tokenization for German web and social media texts",
+      "authors": "Thomas Proisl, Peter Uhrig",
+      "year": 2016,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic of \"tokens\" as it discusses SoMaJo, a tokenizer for German web and social media texts. Tokenization is a process in natural language processing that involves dividing text into words, phrases, symbols, or other meaningful elements called tokens. The paper's focus on the performance and rule-based approach of this tokenizer directly relates to the topic."
+    },
+    {
+      "id": "https://openalex.org/W2037450062",
+      "title": "Tokenization as the initial phase in NLP",
+      "authors": "Jonathan J. Webster, Chunyu Kit",
+      "year": 1992,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses tokenization, which is the process of breaking down text into words, phrases, symbols, or other meaningful elements called tokens. The topic is about tokens, and the paper provides a detailed discussion on the concept of tokens, their significance, and their identification in natural language processing (NLP), which makes it relevant to the topic."
+    },
+    {
+      "id": "https://openalex.org/W4206660322",
+      "title": "Fast WordPiece Tokenization",
+      "authors": "Xinying Song, Alex Salcianu, Yang Song et al.",
+      "year": 2021,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the concept of tokenization, which is a fundamental process in Natural Language Processing (NLP) and directly related to the topic of tokens. It proposes efficient algorithms for WordPiece tokenization, which is used in BERT, a popular NLP model. The paper also compares its method to other tokenization methods and provides experimental results, adding to the discussion on tokens and their relevance in NLP tasks."
+    },
+    {
+      "id": "https://openalex.org/W2403707901",
+      "title": "Word and Sentence Tokenization with Hidden Markov Models",
+      "authors": "Bryan Jurish, Kay-Michael W\u00fcrzner",
+      "year": 2013,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses a method for the segmentation of text into tokens, which directly relates to the topic of tokens. It presents a model for tokenization and evaluates its performance, providing valuable insights into the field of study."
+    },
+    {
+      "id": "https://openalex.org/W4409872456",
+      "title": "How Much Semantic Information is Available in Large Language Model Tokens?",
+      "authors": "David A. Haslett, Zhenguang G. Cai",
+      "year": 2025,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the semantic information available in large language model tokens. It investigates the meaning of tokens, their segmentation, and how they capture morphological information. This directly relates to the topic of \"tokens\" as it provides an in-depth analysis of their function and significance in language models."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "run_id": "49f7343e-f379-410e-9c26-77bc9dfed3c4",
+  "timestamp": "2025-05-07T21-44-29.908624Z",
+  "topic": "What strategies exist for low-resource langauages?",
+  "seed_ids": [
+    "W2963088995",
+    "w3098341425"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W4285123703",
+      "title": "Local Languages, Third Spaces, and other High-Resource Scenarios",
+      "authors": "Steven Bird",
+      "year": 2022,
+      "annotation": "Relevant. \n\nThe candidate paper discusses the situation of under-resourced languages, which can be considered as low-resource languages. It explores the challenge of scaling existing solutions to bring these languages into a high-resource world. Therefore, it is likely to discuss or propose strategies for these low-resource languages, making it relevant to the topic."
+    },
+    {
+      "id": "https://openalex.org/W2807710978",
+      "title": "Challenges of language technologies for the indigenous languages of the Americas",
+      "authors": "Manuel Mager, Ximena Gutierrez-Vasques, Gerardo Sierra et al.",
+      "year": 2018,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses language technologies for indigenous languages of the Americas, which are typically low-resource languages. The paper reviews research, digital resources, and NLP systems that focus on these languages, which can be considered as strategies for dealing with low-resource languages."
+    },
+    {
+      "id": "https://openalex.org/W4389524378",
+      "title": "ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages",
+      "authors": "Nathaniel D. Robinson, Perez Ogayo, David R. Mortensen et al.",
+      "year": 2023,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses the performance of a large language model (ChatGPT) in translating low-resource languages (LRLs). While it does not directly discuss strategies for improving performance in LRLs, it provides valuable insight into the current limitations and challenges faced in this area. This information could be used as a basis for developing strategies to improve performance in low-resource languages."
+    },
+    {
+      "id": "https://openalex.org/W4287758476",
+      "title": "Low-resource Languages: A Review of Past Work and Future Challenges",
+      "authors": "Alexandre Magueresse, Vincent Carles, Evan Heetderks",
+      "year": 2020,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper's focus on low-resource languages, the challenges associated with them, and the review of past work aligns directly with the topic of strategies for low-resource languages. It is likely to provide insights into the strategies that have been used in the past and potential improvements for future research."
+    },
+    {
+      "id": "https://openalex.org/W3136221257",
+      "title": "MuRIL: Multilingual Representations for Indian Languages",
+      "authors": "Simran Khanuja, Diksha Bansal, Sarvesh Mehtani et al.",
+      "year": 2021,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the challenges faced by low-resource languages, particularly Indian languages, in current language models. It then proposes a new strategy, MuRIL, which is a language model specifically built for Indian languages. This strategy involves augmenting monolingual corpora with translated document pairs to provide supervised cross-lingual signals during training. The paper's focus on strategies for improving language model performance for low-resource languages aligns directly with the topic."
+    },
+    {
+      "id": "https://openalex.org/W4409131149",
+      "title": "English in LLMs: The Role of AI in Avoiding Cultural Homogenization",
+      "authors": "Mirko Farina, Andrea Lavazza",
+      "year": 2025,
+      "annotation": "Relevant.\n\nThe candidate paper is relevant to the topic as it discusses strategies for preserving linguistic diversity and reducing the dominance of English in large language models (LLMs). The paper suggests that governments and international bodies should develop regulations to support linguistic pluralism and protect cultures in the digital sphere. It also discusses the creation and deployment of smaller models specifically adapted to local languages as a strategy to preserve linguistic nuance and reduce reliance on a single standard language. Other strategies mentioned include community-driven data curation, impact assessments of model deployment, and policies to promote open-access partnerships and linguistic sovereignty. These strategies could be applied to low-resource languages to help preserve and potentially revitalize them."
+    },
+    {
+      "id": "https://openalex.org/W4388953014",
+      "title": "Low-Resource Neural Machine Translation: A Systematic Literature Review",
+      "authors": "B\u0131lge Ka\u011fan Yazar, Durmu\u015f \u00d6zkan \u015eahi\u0307n, Erdal K\u0131l\u0131\u00e7",
+      "year": 2023,
+      "annotation": "Relevant. \n\nThe candidate paper is relevant to the topic as it discusses strategies for low-resource neural machine translation, which falls under the broader category of strategies for low-resource languages. The paper seems to explore different aspects such as deep learning methods, evaluation metrics, and the use of bilingual or monolingual corpora, all of which could be useful strategies in dealing with low-resource languages."
+    },
+    {
+      "id": "https://openalex.org/W3198189804",
+      "title": "Survey of Low-Resource Machine Translation",
+      "authors": "Barry Haddow, Rachel Bawden, Antonio Valerio Miceli Barone et al.",
+      "year": 2022,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses low-resource machine translation, which is a strategy for dealing with low-resource languages. It covers the state of the art in this research area, including techniques that have been evaluated for creating useful translation models when there is little translated data available. This directly relates to the topic of strategies for low-resource languages."
+    }
+  ]
+}

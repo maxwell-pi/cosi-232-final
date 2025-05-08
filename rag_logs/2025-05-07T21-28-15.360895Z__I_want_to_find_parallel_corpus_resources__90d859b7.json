@@ -1,0 +1,32 @@
+{
+  "run_id": "90d859b7-2889-4483-ac4c-43bdac9a5049",
+  "timestamp": "2025-05-07T21-28-15.360895Z",
+  "topic": "I want to find parallel corpus resources.",
+  "seed_ids": [
+    "w22168010",
+    "w2047295649"
+  ],
+  "bibliography": [
+    {
+      "id": "https://openalex.org/W157432847",
+      "title": "BITS: a method for bilingual text search over the Web",
+      "authors": "Xiaoyi Ma, Mark Liberman",
+      "year": 1999,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses BITS (Bilingual Internet Text Search), a system that mines parallel text from the web, which directly relates to the topic of finding parallel corpus resources. The system's ability to harvest multilingual texts could potentially serve as a resource for parallel corpus."
+    },
+    {
+      "id": "https://openalex.org/W2047295649",
+      "title": "The Web as a Parallel Corpus",
+      "authors": "Philip Resnik, Noah A. Smith",
+      "year": 2003,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. The paper discusses the use of the World Wide Web as a parallel corpus, which is directly related to the topic of finding parallel corpus resources. It also discusses the STRAND system for mining parallel text, which could be a useful tool for someone looking for parallel corpus resources. Furthermore, the paper presents enhancements to this system, demonstrating its ongoing relevance and applicability."
+    },
+    {
+      "id": "https://openalex.org/W22168010",
+      "title": "Europarl: A Parallel Corpus for Statistical Machine Translation",
+      "authors": "Philipp Koehn",
+      "year": 2005,
+      "annotation": "The candidate paper is relevant to the intellectual context of the topic. This is because the paper discusses the Europarl, a parallel corpus in 11 languages. The topic is interested in finding parallel corpus resources, which is exactly what the Europarl is. Therefore, the information in this paper would be useful for the topic."
+    }
+  ]
+}

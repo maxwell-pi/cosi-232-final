@@ -1,0 +1,107 @@
+===== SEMANTIC + DIVERSITY METRICS =====
+
+ Query: What are the theoretical foundations of compositionality in NLP?
+  Papers Evaluated: 3
+  Avg Similarity: 0.703
+  Min / Max Similarity: 0.6869 / 0.7177
+  Keyword Entropy: 3.2955
+  Top Keywords: compositionality, determined, expression, meaning, parts, semantics, arguments, article, background, cases
+
+ Query: What strategies exist for low-resource langauages?
+  Papers Evaluated: 8
+  Avg Similarity: 0.5187
+  Min / Max Similarity: 0.4591 / 0.5691
+  Keyword Entropy: 3.2796
+  Top Keywords: languages, resource, language, low, present, research, models, speakers, translation, data
+
+ Query: What are the theoretical foundations of compositionality in NLP?
+  Papers Evaluated: 5
+  Avg Similarity: 0.687
+  Min / Max Similarity: 0.6535 / 0.7177
+  Keyword Entropy: 3.2981
+  Top Keywords: compositionality, complex, compositional, determined, parts, expression, languages, meaning, principle, second
+
+ Query: Evaluation without humans.
+  Papers Evaluated: 4
+  Avg Similarity: 0.4928
+  Min / Max Similarity: 0.4132 / 0.5725
+  Keyword Entropy: 3.2766
+  Top Keywords: human, automatic, evaluation, quality, used, extensive, independent, judges, language, machine
+
+ Query: How does tokenization work?
+  Papers Evaluated: 3
+  Avg Similarity: 0.5401
+  Min / Max Similarity: 0.4933 / 0.6099
+  Keyword Entropy: 3.2925
+  Top Keywords: token, tokenization, word, words, chinese, complexity, nlp, paper, step, tokens
+
+ Query: How does gender relate to language?
+  Papers Evaluated: 5
+  Avg Similarity: 0.591
+  Min / Max Similarity: 0.5335 / 0.6465
+  Keyword Entropy: 3.2723
+  Top Keywords: language, gender, different, related, social, studies, use, english, agreement, differences
+
+ Query: adjectives?
+  Papers Evaluated: 5
+  Avg Similarity: 0.3986
+  Min / Max Similarity: 0.3625 / 0.4134
+  Keyword Entropy: 3.2999
+  Top Keywords: adjectives, comparison, article, associated, characteristic, gradability, gradable, interpretation, nouns, verbs
+
+ Query: What's an embedding?
+  Papers Evaluated: 5
+  Avg Similarity: 0.4535
+  Min / Max Similarity: 0.3946 / 0.5663
+  Keyword Entropy: 3.2709
+  Top Keywords: embedding, embeddings, different, dimensional, language, tasks, adopted, downstream, graph, learn
+
+ Query: tokens
+  Papers Evaluated: 5
+  Avg Similarity: 0.2699
+  Min / Max Similarity: 0.2154 / 0.3043
+  Keyword Entropy: 3.2796
+  Top Keywords: tokenization, word, available, paper, token, tokens, words, average, best, complexity
+
+ Query: What are embeddings?
+  Papers Evaluated: 5
+  Avg Similarity: 0.4871
+  Min / Max Similarity: 0.4644 / 0.5292
+  Keyword Entropy: 3.2967
+  Top Keywords: embeddings, methods, trained, word, concepts, language, linear, practice, probabilistically, used
+
+ Query: Can we model how languages evolve computationlly?
+  Papers Evaluated: 3
+  Avg Similarity: 0.5429
+  Min / Max Similarity: 0.5081 / 0.5679
+  Keyword Entropy: 3.2999
+  Top Keywords: experiments, language, case, computational, describing, human, languages, learning, linguistic, models
+
+ Query: Is there a relationship between gender bias and LLM alignment issues?
+  Papers Evaluated: 4
+  Avg Similarity: 0.49
+  Min / Max Similarity: 0.4031 / 0.6433
+  Keyword Entropy: 3.2389
+  Top Keywords: bias, biases, gender, better, current, explicitly, language, large, models, recent
+
+ Query: Cross-lingual embeddings
+  Papers Evaluated: 5
+  Avg Similarity: 0.641
+  Min / Max Similarity: 0.5519 / 0.6815
+  Keyword Entropy: 3.2827
+  Top Keywords: cross, embeddings, languages, lingual, word, embedding, compare, different, learning, research
+
+ Query: I want to find parallel corpus resources.
+  Papers Evaluated: 3
+  Avg Similarity: 0.6096
+  Min / Max Similarity: 0.5867 / 0.6386
+  Keyword Entropy: 3.2929
+  Top Keywords: corpus, language, parallel, text, web, internet, machine, multilingual, pair, pairs
+
+
+===== ROUGE & BLEU EVAL (Proxy Annotations) =====
+
+Average ROUGE-1 F: 0.1841
+Average ROUGE-L F: 0.1122
+Average BLEU:      0.0020
+Total Samples:     57
