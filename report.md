@@ -205,8 +205,8 @@ The easiest way to run the project is from the command line. The `pipeline.py` s
 
 ```bash
 uv run python pipeline.py \
-  --query "What are embeddings?" \
-  --seed_ids https://openalex.org/W658020064
+  --query "What are the theoretical foundations of compositionality in NLP??" \
+  --seed_ids "w2153579005" "w2962813108"
 ```
 
 Alternatively, you can run via container. Start Flask with `run_flask.sh`, then run `streamlit run interface.py` locally. Jobs are tracked, and logs are shown in the container terminal.

@@ -17,7 +17,7 @@ class Bibliography:
         self.seed_ids = seed_ids
 
     def save_summary(self, output_dir='summaries'):
-        summary = generate_summary(self.query, self.annotated)
+        self.summary = generate_summary(self.query, self.annotated)
         os.makedirs(output_dir, exist_ok=True)
 
         run_id = str(uuid.uuid4())
@@ -32,7 +32,7 @@ class Bibliography:
             "timestamp": timestamp,
             "topic": self.query,
             "seed_ids": self.seed_ids,
-            "bibliography": summary
+            "bibliography": self.summary
         }
 
         with open(filepath, "w") as f:
